@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divu050704&label=Profile%20views&color=0e75b6&style=flat" alt="divu050704" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divu050704&theme=dracula" alt="divu050704" /></a> </p>
-
 - 🔭 I’m currently working on building real-time applications as CTO at Leeglin and developing AI/RAG-based tools like Onto.
 - 🌱 I’m currently utilizing Retrieval-Augmented Generation (RAG) and advanced Chrome Extension development.
 - 👯 I’m looking to collaborate on open-source developer tooling, like my React Browser Extension CLI.
