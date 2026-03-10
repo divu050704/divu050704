@@ -1,23 +1,17 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Sharma</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate software architect from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divu050704&label=Profile%20views&color=0e75b6&style=flat" alt="divu050704" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divu050704&theme=dracula" alt="divu050704" /></a> </p>
 
-- 🔭 I’m currently working on **Streamlining everyday tasks through automation**
-
-- 🌱 I’m currently learning **Android Development**
-
-- 👯 I’m looking to collaborate on **open source projects**
-
-- 👨‍💻 All of my projects are available at [https://divu050704.github.io](https://divu050704.github.io)
-
-- 📝 I regularly write articles on [CTF Walkthroughs](https://divu050704.github.io/blog)
-
-- 💬 Ask me about **react, OWASP top 10**
-
-- 📫 How to reach me **divyanshu14472@gmail.com**
+- 🔭 I’m currently working on building real-time applications as CTO at Leeglin and developing AI/RAG-based tools like Onto.
+- 🌱 I’m currently utilizing Retrieval-Augmented Generation (RAG) and advanced Chrome Extension development.
+- 👯 I’m looking to collaborate on open-source developer tooling, like my React Browser Extension CLI.
+- 👨‍💻 All of my projects are available at divu050704.github.io.
+- 📝 I actively hunt bugs, reporting vulnerabilities to CERT-IN , and rank in the Top 1% on TryHackMe.
+- 💬 Ask me about React, Next.js, Django , GenAI integration , and Browser Automation.
+- 📫 How to reach me: divyanshu14472@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
