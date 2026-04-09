@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divu050704&label=Profile%20views&color=0e75b6&style=flat" alt="divu050704" /> </p>
 
-- 🔭 I’m currently working on building real-time applications as CTO at Leeglin and developing AI/RAG-based tools like Onto.
+- 🔭 I’m currently working on building real-time applications as Foudning Software Engineer at Leeglin and developing AI/RAG-based tools like Onto.
 - 🌱 I’m currently utilizing Retrieval-Augmented Generation (RAG) and advanced Chrome Extension development.
 - 👯 I’m looking to collaborate on open-source developer tooling, like my React Browser Extension CLI.
 - 👨‍💻 All of my projects are available at divu050704.github.io.
